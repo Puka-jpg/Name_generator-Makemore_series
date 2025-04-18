@@ -67,7 +67,7 @@ This project is heavily inspired by Andrej Karpathy’s *makemore*, with a cultu
 Clone the repo and run the Jupyter notebook:
 
 ```bash
-git clone https://github.com/yourusername/nepali-name-generator.git
+git clone https://github.com/Puka-jpg/nepali-name-generator.git
 cd nepali-name-generator
 jupyter notebook nepali_name_generator.ipynb
 ```
